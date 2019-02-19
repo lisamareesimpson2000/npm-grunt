@@ -1,0 +1,24 @@
+{
+  "name": "npm-project",
+  "version": "1.0.0",
+  "description": "npm testing",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "test"
+  ],
+  "author": "Lisa",
+  "license": "ISC",
+  "devDependencies": {
+    "bootstrap": "^4.3.1",
+    "grunt": "^1.0.3",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-uglify": "^4.0.0",
+    "jquery": "^3.3.1",
+    "jshint": "^2.10.1",
+    "popper": "^1.14.7"
+  }
+}
